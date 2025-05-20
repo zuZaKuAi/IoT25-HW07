@@ -2,6 +2,14 @@
 ![dis](https://github.com/user-attachments/assets/acfee92f-841c-41c8-b827-91ed407b1e5f)
 
 # distance
+
+![image](https://github.com/user-attachments/assets/28416eb4-58c7-455e-b260-499cbefecf48)
+
+![image](https://github.com/user-attachments/assets/bf4c10d6-d608-4d11-9dbe-b2244f730848)
+
+![image](https://github.com/user-attachments/assets/bd9ff781-53fe-498f-9460-7f7107eab6d9)
+
+
 0.6m (-67dBm, 0.73m) 
 ![image](https://github.com/user-attachments/assets/49a8e1d8-d4b4-46e9-b699-23bb2370541b)
 
